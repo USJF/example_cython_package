@@ -1,0 +1,3 @@
+recursive-include example *.so
+recursive-include example *.h
+recursive-include example *.cpp
